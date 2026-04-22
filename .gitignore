@@ -40,3 +40,9 @@ Thumbs.db
 # Editor/IDE
 .vscode/
 .idea/
+
+Docs/
+*.docx
+*.pdf
+*.txt
+DEV_GUIDE.md
